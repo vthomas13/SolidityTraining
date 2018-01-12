@@ -1,0 +1,2 @@
+# SolidityTraining
+Learning Solidity
